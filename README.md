@@ -1,3 +1,4 @@
+![logo](https://github.com/DipyamanGhosal/DipyamanGhosal/blob/main/Git%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dipyaman Ghosal</h1>
 <h3 align="center">A passionate Python/Frontend developer from India</h3>
 
